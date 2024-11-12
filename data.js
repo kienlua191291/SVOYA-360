@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-a02",
-      "name": "A02",
+      "id": "0-b01",
+      "name": "B01",
       "levels": [
         {
           "tileSize": 256,
@@ -24,23 +24,23 @@ var APP_DATA = {
       ],
       "faceSize": 1500,
       "initialViewParameters": {
-        "yaw": -0.5127549335564865,
-        "pitch": -0.03516921839937481,
-        "fov": 1.3595512931535918
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 0.5451609822292696,
-          "pitch": 0.14601594010464325,
-          "rotation": 7.853981633974483,
-          "target": "1-a03"
+          "yaw": -1.606646087486446,
+          "pitch": 0.1309193888959168,
+          "rotation": 0,
+          "target": "1-b02"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-a03",
-      "name": "A03",
+      "id": "1-b02",
+      "name": "B02",
       "levels": [
         {
           "tileSize": 256,
